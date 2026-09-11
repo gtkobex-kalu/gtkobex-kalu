@@ -28,7 +28,10 @@ I am a self-taught programmer and student developer based in Tigray, Ethiopia. I
 ### Connect with me
 - GitHub: [gtkobex-kalu](https://github.com)
 - Instagram: [tgkalu71](https://instagram.com)
-- Facebook:
-- Telegram:
-- X:
-- Gmail:
+- Facebook:  [Kalab Tsegaluel](https://facebook.com)
+- Telegram:  [kalab_tsegaluel](https://t.me)
+- X:  [Gtkobexbgd](https://x.com)
+- Gmail (Primary): [tgkalu71@gmail.com](mailto:tgkalu71@gmail.com)
+- Gmail (Alternative): [marelmaru0@gmail.com](mailto:marelmaru0@gmail.com)
+- Instagram: [gtk_obex](https://https://instagram.com)
+- WhatsApp: [+251 99 284 1528](https://wa.me)
